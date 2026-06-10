@@ -1,0 +1,24 @@
+IVC MOCK TEST RESULT
+==================================================
+Pattern    : UPSC Prelims
+Date/Time  : 2026-06-10 19:50:34
+Score      : 373.33 / 400
+Percentage : 93.3%
+Grade      : A+
+Time Taken : 24m 0s
+Correct    : 190
+Wrong      : 10
+Skipped    : 0
+
+TOPIC-WISE
+----------------------------------------
+Basics                : 15/15  (100%)
+Excavators            : 15/15  (100%)
+Sites                 : 39/40  (98%)
+Town Planning         : 20/20  (100%)
+Economy               : 24/25  (96%)
+Religion & Art        : 29/30  (97%)
+Script & Seals        : 11/13  (85%)
+Decline               : 15/17  (88%)
+UPSC Statements       : 15/18  (83%)
+Advanced              : 7/7  (100%)
